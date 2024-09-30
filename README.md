@@ -1,2 +1,0 @@
-# zapper
-zapper test
